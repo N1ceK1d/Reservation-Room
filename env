@@ -1,0 +1,5 @@
+PGUSER=postgres
+PGHOST=localhost
+PGDATABASE=room_reservation
+PGPASSWORD=admin
+PGPORT=5436
